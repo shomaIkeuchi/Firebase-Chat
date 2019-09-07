@@ -8,7 +8,7 @@
 
 import UIKit
 import Firebase
-//なんでできひんの
+//なんでできひんのお願い
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
