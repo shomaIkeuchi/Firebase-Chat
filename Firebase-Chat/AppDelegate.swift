@@ -10,6 +10,7 @@ import UIKit
 import Firebase
 //なんでできひんのお願い
 @UIApplicationMain
+
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
