@@ -7,14 +7,9 @@ target 'Firebase-Chat' do
 
   # Pods for Firebase-Chat
 
-  target 'Firebase-ChatTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'Firebase-ChatUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+pod 'Firebase/Core'
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
 
 end
